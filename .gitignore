@@ -1,1 +1,10 @@
-logs/\n__pycache__/\n.env
+# airflow
+logs/
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyc
+*.pyd
+
